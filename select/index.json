@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヤングスキニー - stay with me【Official Music Video】",
+  "base_artist": "ヤングスキニー",
+  "createdAt": "2026-02-11T10:21:26.501073Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "stay with me",
+      "artist": "ヤングスキニー",
+      "has_synced": false,
+      "path": "select/pl_01_stay_with_me_ヤングスキニー.txt"
+    }
+  ]
+}
